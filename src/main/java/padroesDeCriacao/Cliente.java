@@ -1,4 +1,4 @@
-package abstractFactory;
+package padroesDeCriacao;
 
 public class Cliente {
 
